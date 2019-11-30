@@ -1,6 +1,3 @@
-asdsadsad
-adsa
-dsa
-dsa
-d
-asdasdasd
+KNU
+
+ELECTRIC ENGINEERING 
