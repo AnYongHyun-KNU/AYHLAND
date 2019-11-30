@@ -5,6 +5,8 @@ Created on Sun Nov 17 20:38:12 2019
 
 @author: pc
 """
+# 카메라 영상을 실시간으로 읽어와 감마 변환하기
+# 웹캠 영상을 이용한 감마 변환
 
 import cv2
 import numpy as np
