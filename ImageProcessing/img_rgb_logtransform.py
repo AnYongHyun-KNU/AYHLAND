@@ -8,7 +8,7 @@ import cv2
 import math
 import numpy as np
 # Intensity transformation - (2) Image log transformation
-# rgb에서 밝기 정보만 분리해서 변환하기 
+# rgb에서 밝기 정보만 분리해서 log transform 변환하기 
 
 img = cv2.imread('nighthouse.jpg',cv2.IMREAD_COLOR)
 cv2.imshow('orginal',img)
