@@ -1,0 +1,7 @@
+1. 아나콘다 64비트 다운 
+
+2. 아나콘다 -> 아나콘다 프롬프트 
+
+3. pip install opencv-python
+
+4. 설치확인 python > import cv2
